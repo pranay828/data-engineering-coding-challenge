@@ -3,7 +3,7 @@ This coursework project involves generating a fixed-width file, parsing it to cr
 
 The project has different files as described below.
 
-Folder Content Description
+<h2>Folder Content Description</h2>
 
 -generate_fixed_width.py: Generates random data for specified number of rows, formats it to fixed-width, and saves it to `random_data.json`.
     The output is as shown in the below image.
